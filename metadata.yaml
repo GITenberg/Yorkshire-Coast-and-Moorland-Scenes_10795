@@ -1,0 +1,27 @@
+_repo: Yorkshire-Coast-and-Moorland-Scenes_10795
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Home, Gordon
+    alias: Home, Gordon Cochrane
+    birthdate: 1878
+    deathdate: 1969
+    gutenberg_agent_id: '2778'
+    url: http://www.gutenberg.org/2009/agents/2778
+    wikipedia: http://en.wikipedia.org/wiki/Gordon_Home
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yorkshire (England) -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+title: Yorkshire—Coast and Moorland Scenes
+url: http://www.gutenberg.org/ebooks/10795
